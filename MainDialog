@@ -1,0 +1,8 @@
+{
+  "title": "Title",
+  "msg": "Msg",
+  "cancelable": true,
+  "buttonTitle": "Okay",
+  "showDialog": true,
+  "buttonEnble": true
+}
