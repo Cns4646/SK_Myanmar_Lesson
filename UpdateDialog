@@ -2,5 +2,5 @@
   "recent_version": "1.0",
   "description": "version - 1.0",
   "url": "https://www.google.com",
-  "cancelable": false
+  "cancelable": true
 }
